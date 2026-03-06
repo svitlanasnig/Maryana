@@ -1,0 +1,171 @@
+header{
+ /* Rectangle 1 */
+
+position: absolute;
+width: 936px;
+height: 73px;
+left: 0px;
+top: 0px;
+
+background: #6B1D1D;
+
+}
+img{
+    /* Rectangle 5 */
+
+position: absolute;
+width: 936px;
+height: 461px;
+left: 0px;
+top: 73px;
+
+background: url(grimaldis-international-hero-768.jpg.png);
+}
+
+footer{
+/* Rectangle 2 */
+
+position: absolute;
+width: 936px;
+height: 69px;
+left: 0px;
+top: 534px;
+
+background: #6B1D1D;
+
+}
+
+
+.p{
+/* Спробуй справжній смак піци! */
+
+position: absolute;
+width: 769px;
+height: 58px;
+top: 140px;
+left: 120px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+}
+.b{
+/* Pizzeria */
+
+position: absolute;
+width: 130px;
+height: 39px;
+left: 26px;
+top: -15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
+.g{
+/* Ароматна й соковита піца кожен день! */
+
+position: absolute;
+width: 420px;
+height: 78px;
+left: calc(50% - 420px/2);
+top: calc(50% - 150px/2 + 0.5px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+
+button{
+    /* Rectangle 6 */
+
+position: absolute;
+width: 290px;
+height: 80px;
+left: 326px;
+top: 378px;
+
+background: linear-gradient(180deg, #CE4A4A 72.12%, #682525 100%);
+border-radius: 15px;
+}
+
+.ffff{
+    /* Забронювати столик */
+
+position: absolute;
+width: 290px;
+height: 55px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
+
+.pop{
+    /* Rectangle 8 */
+
+position: absolute;
+width: 122px;
+height: 43px;
+left: 609px;
+top: 17px;
+
+background: #832222;
+border-radius: 10px;
+}
+
+.ka{
+    /* Rectangle 7 */
+
+position: absolute;
+width: 118px;
+height: 43px;
+left: 779px;
+top: 17px;
+
+background: #832222;
+border-radius: 10px;
+
+}
+.alalal{
+    /* Головна */
+
+position: absolute;
+width: 83px;
+height: 24px;
+left: 628px;
+top: 27px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
