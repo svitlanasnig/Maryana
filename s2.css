@@ -1,0 +1,229 @@
+header{
+ /* Rectangle 1 */
+
+position: absolute;
+width: 936px;
+height: 73px;
+left: 0px;
+top: 0px;
+
+background: #6B1D1D;
+
+}
+
+footer{
+/* Rectangle 2 */
+
+position: absolute;
+width: 936px;
+height: 69px;
+left: 0px;
+top: 534px;
+
+background: #6B1D1D;
+
+}
+
+
+.b{
+/* Pizzeria */
+
+position: absolute;
+width: 130px;
+height: 39px;
+left: 26px;
+top: -15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
+
+button{
+    /* Rectangle 6 */
+
+position: absolute;
+width: 290px;
+height: 80px;
+left: 326px;
+top: 378px;
+
+background: linear-gradient(180deg, #CE4A4A 72.12%, #682525 100%);
+border-radius: 15px;
+}
+
+.ffff{
+    /* Забронювати столик */
+
+position: absolute;
+width: 290px;
+height: 55px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
+
+.popka{
+    /* Rectangle 8 */
+
+position: absolute;
+width: 122px;
+height: 43px;
+left: 780px;
+top: 17px;
+
+background: #832222;
+border-radius: 10px;
+}
+
+.alalal{
+    /* Головна */
+
+position: absolute;
+width: 83px;
+height: 24px;
+left: 628px;
+top: 27px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
+/* Rectangle 9 */
+main{
+position: absolute;
+width: 936px;
+height: 464px;
+left: 0px;
+top: 70px;
+
+background: #CE4A4A;
+}
+
+.n{
+    /* Меню */
+
+position: absolute;
+width: 197px;
+height: 77px;
+left: 17px;
+top: -40px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
+img{
+    /* Rectangle 10 */
+
+position: absolute;
+width: 309px;
+height: 314px;
+left: 33px;
+top: 90px;
+
+background: url(piza_peperoni.png);
+
+}
+.sss{
+    /* Піци */
+
+position: absolute;
+width: 99px;
+height: 48px;
+left: 448px;
+top: 3px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
+p{
+    /* Класична піца - 122 грн Піца з пепероні - 130 грн М’ясна піца - 140 грн Піца з ананасом - 140 грн Піца з оливками - 140 грн Сирна піца - 150 грн Грибна піца - 160 грн */
+
+position: absolute;
+width: 270px;
+height: 182px;
+left: 385px;
+top: 70px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+
+}
+.drinks{
+    /* Напої */
+
+position: absolute;
+width: 118px;
+height: 48px;
+left: 746px;
+top: 2px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
+.rrr{
+    /* Сік - 20 грн Какао - 30 грн Кава - 30 грн Ромашковий чай - 40 грн Капучино - 40 грн */
+
+position: absolute;
+width: 263px;
+height: 120px;
+left: 700px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+}
